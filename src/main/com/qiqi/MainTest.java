@@ -23,7 +23,7 @@ import java.util.zip.ZipInputStream;
 
 class MainTest {
 
-    public static String svga_name = "Walkthrough.svga";
+    public static String svga_name = "rose_2.0.0.svga";
 
     public static void main(String[] args) {
         File file = new File("assets/" + svga_name);
